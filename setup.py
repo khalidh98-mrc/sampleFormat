@@ -8,7 +8,7 @@ setup(
   author = 'KHALIDH AHAMED',                   # Type in your name
   author_email = 'khalidh.ahamed@mrcooper.com',      # Type in your E-Mail
   url = 'https://github.com/khalidh98-mrc/sampleFormat',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/khalidh98-mrc/sampleFormat/archive/v0.1.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/khalidh98-mrc/sampleFormat/archive/v0.2.tar.gz',    # I explain this later on
   keywords = ['SAMPLE', 'FORMAT', 'PIP'],   # Keywords that define your package best
   install_requires=[],            # I get to this in a second
       
