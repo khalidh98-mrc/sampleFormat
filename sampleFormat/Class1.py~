@@ -1,0 +1,2 @@
+def printClass1():		
+	print("This is class1")
